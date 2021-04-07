@@ -18,6 +18,7 @@ public class App
         Scanner input = new Scanner(System.in);
         int s = input.nextInt();
         System.out.println(s);
+        System.out.println("trying to edit on github ");
         // File f = new File("test.txt");
         // if(!f.exists()) f.createNewFile();
         // FileWriter fw = new FileWriter(f,true);
